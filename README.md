@@ -517,14 +517,6 @@ client.on('close', function clear() {
 });
 ```
 
-### How to connect via a proxy?
-
-Use a custom `http.Agent` implementation like [https-proxy-agent][] or
-[socks-proxy-agent][].
-
-## Changelog
-
-We're using the GitHub [releases][changelog] for changelog entries.
 
 ## License
 
